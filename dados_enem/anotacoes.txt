@@ -1,0 +1,6 @@
+- pesquisar a média da nota para pessoas que conseguiram entrar na faculdade
+
+- entrega 2: com regressão + árvore somente
+(mandar novamente por email, copiando o vinicius, até dia 31/08)
+
+- entrega 3: regressão + árvore e rf + gb
